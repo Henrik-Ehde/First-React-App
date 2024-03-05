@@ -1,0 +1,11 @@
+ol{
+
+    list-style-type: none;
+    color: lightblue;
+    display: flex;
+}
+
+li
+{
+    margin-right: 30px;
+}
